@@ -1,0 +1,11 @@
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Domain.Service.dll
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Domain.Service.pdb
+C:\Developements\Mathematics\Mathematics.Domain.Service\obj\Debug\Mathematics.Domain.Service.csprojResolveAssemblyReference.cache
+C:\Developements\Mathematics\Mathematics.Domain.Service\obj\Debug\Mathematics.Domain.Service.dll
+C:\Developements\Mathematics\Mathematics.Domain.Service\obj\Debug\Mathematics.Domain.Service.pdb
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Domain.Model.dll
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Domain.Model.pdb
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Infrastructure.dll
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Infrastructure.pdb
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Infrastructure.CrossCutting.dll
+C:\Developements\Mathematics\Mathematics.Domain.Service\bin\Debug\Mathematics.Infrastructure.CrossCutting.pdb

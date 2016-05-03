@@ -1,0 +1,11 @@
+C:\Developements\Mathematics\Mathematics.Application\obj\Debug\Mathematics.Application.csprojResolveAssemblyReference.cache
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Application.dll
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Application.pdb
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Domain.Service.dll
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Domain.Service.pdb
+C:\Developements\Mathematics\Mathematics.Application\obj\Debug\Mathematics.Application.dll
+C:\Developements\Mathematics\Mathematics.Application\obj\Debug\Mathematics.Application.pdb
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Domain.Model.dll
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Domain.Model.pdb
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Infrastructure.dll
+C:\Developements\Mathematics\Mathematics.Application\bin\Debug\Mathematics.Infrastructure.pdb

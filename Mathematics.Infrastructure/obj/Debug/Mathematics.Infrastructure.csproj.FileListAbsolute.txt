@@ -1,0 +1,4 @@
+C:\Developements\Mathematics\Mathematics.Infrastructure\bin\Debug\Mathematics.Infrastructure.dll
+C:\Developements\Mathematics\Mathematics.Infrastructure\bin\Debug\Mathematics.Infrastructure.pdb
+C:\Developements\Mathematics\Mathematics.Infrastructure\obj\Debug\Mathematics.Infrastructure.dll
+C:\Developements\Mathematics\Mathematics.Infrastructure\obj\Debug\Mathematics.Infrastructure.pdb

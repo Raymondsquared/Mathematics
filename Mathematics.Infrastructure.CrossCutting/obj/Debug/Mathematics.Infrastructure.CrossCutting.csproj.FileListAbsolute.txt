@@ -1,0 +1,4 @@
+C:\Developements\Mathematics\Mathematics.Infrastructure.CrossCutting\bin\Debug\Mathematics.Infrastructure.CrossCutting.dll
+C:\Developements\Mathematics\Mathematics.Infrastructure.CrossCutting\bin\Debug\Mathematics.Infrastructure.CrossCutting.pdb
+C:\Developements\Mathematics\Mathematics.Infrastructure.CrossCutting\obj\Debug\Mathematics.Infrastructure.CrossCutting.dll
+C:\Developements\Mathematics\Mathematics.Infrastructure.CrossCutting\obj\Debug\Mathematics.Infrastructure.CrossCutting.pdb
